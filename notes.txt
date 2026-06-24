@@ -1,0 +1,5 @@
+1. Defining DAGs - Types of Defining
+2. Task Dependencies - Types of it
+3. Versioning DAGs
+4. Operators - in 3.0 & 2.0
+             - sensors, Transfer Operators, Provider Operators ( will be same for 3.0)
