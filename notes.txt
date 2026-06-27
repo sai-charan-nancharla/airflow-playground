@@ -4,4 +4,4 @@
 4. Operators - in 3.0 & 2.0
              - sensors, Transfer Operators, Provider Operators ( will be same for 3.0)
 5. Xcoms - auto & manual(kwargs)
-6.
+6. Parallel Tasks - ( Based on Defiing Dependencies)
