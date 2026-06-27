@@ -3,3 +3,5 @@
 3. Versioning DAGs
 4. Operators - in 3.0 & 2.0
              - sensors, Transfer Operators, Provider Operators ( will be same for 3.0)
+5. Xcoms - auto & manual(kwargs)
+6.
