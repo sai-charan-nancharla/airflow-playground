@@ -6,3 +6,6 @@
 5. Xcoms - auto & manual(kwargs)
 6. Parallel Tasks - ( Based on Defiing Dependencies)
 7. Branching
+8. Scheduling - Preset
+              - cron Jobs
+              - Delta Jobs
